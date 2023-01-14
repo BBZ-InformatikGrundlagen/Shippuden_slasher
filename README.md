@@ -10,5 +10,7 @@ Wenn die rote Led leuchtet, ist es 26°C oder über 26°C.
 Wenn der Ventilator mit normaler geschwindigkeit dreht und der Piepser ertönt, ist es 26°C oder über 26°C.
 
 Mit dem linken Zusatzknopf wird der Ventilator Manuell eingeschaltet, falls der Ventilator mit halber Geschwindigkeit läuft, wird es mit normaler Geschwindigkeit weiter betrieben.
+
 Mit dem rechten Zusatzknopf wird der Piepser Manuell eingeschaltet.
+
 Falls beides schon normal läuft, passiert durch das Drücken, der Zusatzknöpfe nichts.
