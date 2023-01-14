@@ -9,4 +9,5 @@ Wenn der Ventilator mit halber geschwindigkeit dreht, ist es 21°C oder über 21
 Wenn die rote Led leuchtet, ist es 26°C oder über 26°C. 
 Wenn der Ventilator mit normaler geschwindigkeit dreht und der Piepser ertönt, ist es >= 26°C.
 
-Mit dem A 
+Mit dem linken Zusatzknopf wird der Ventilator Manuell eingeschaltet.
+Mit dem rechten Zusatzknopf wird der Piepser Manuell eingeschaltet.
